@@ -1,0 +1,2 @@
+Este proveedor solo funciona con el cliente 12c de oracle, con versiones anteriores es incompatible.
+Con este provedor y con el cliente 12c, funciona con bases de datos 10g, 11g y 12c (y las verciones XE)

@@ -1,0 +1,7 @@
+c:\users\datasoft-edgardo\documents\visual studio 2017\Projects\demoDBOracleConnect\demoDBOracleConnect\bin\Debug\demoDBOracleConnect.exe.config
+c:\users\datasoft-edgardo\documents\visual studio 2017\Projects\demoDBOracleConnect\demoDBOracleConnect\bin\Debug\demoDBOracleConnect.exe
+c:\users\datasoft-edgardo\documents\visual studio 2017\Projects\demoDBOracleConnect\demoDBOracleConnect\bin\Debug\demoDBOracleConnect.pdb
+c:\users\datasoft-edgardo\documents\visual studio 2017\Projects\demoDBOracleConnect\demoDBOracleConnect\bin\Debug\Oracle.DataAccess.dll
+c:\users\datasoft-edgardo\documents\visual studio 2017\Projects\demoDBOracleConnect\demoDBOracleConnect\obj\Debug\demoDBOracleConnect.csprojResolveAssemblyReference.cache
+c:\users\datasoft-edgardo\documents\visual studio 2017\Projects\demoDBOracleConnect\demoDBOracleConnect\obj\Debug\demoDBOracleConnect.exe
+c:\users\datasoft-edgardo\documents\visual studio 2017\Projects\demoDBOracleConnect\demoDBOracleConnect\obj\Debug\demoDBOracleConnect.pdb
