@@ -8,6 +8,6 @@ Para instalar el cliente ORACLE, instalar el correspondiente a tu sistema desde 
 
 http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html
 
-* NO de debe modificar nada del cliente ORACLE.
+* NO se debe modificar nada del cliente ORACLE.
 * La libreria del cliente ORACLE 12c viene incluida en el proyecto.
 * La libreria que contiene el proyecto es compatible con las DB ORACLE 10g, 11c y 12c (Tambien las versiones XE de cada version)
